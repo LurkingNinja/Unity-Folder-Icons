@@ -1,7 +1,7 @@
 <h1 align="center">  
  <br>
  <img src="https://i.imgur.com/sNNdxbt.png">
-  Unity-Folder-Icons
+  Unity Folder Icons
 </h1>
 
 <h4 align="center">Lightweight Unity Utility adding coloured folders and icons to your project window</h4>
